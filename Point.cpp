@@ -33,3 +33,8 @@ double Point::distance(Point theOther)
   double dy = getY() - theOther.y;
   return sqrt(dx*dx + dy*dy);
 }
+
+Point::Point(const Point &p) 
+{
+  x = p.x; y = p.y;
+} 
