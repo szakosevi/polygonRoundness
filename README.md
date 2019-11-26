@@ -7,3 +7,7 @@
 6. Check the value of error and the original radius value
 7. Sort the roundness
 8. Print the result in ascending order
+
+Future task:
+Create object separate by roundness object (one line from file)
+Complex algorithm
